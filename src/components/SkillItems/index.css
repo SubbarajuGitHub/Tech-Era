@@ -1,0 +1,23 @@
+.skill-div {
+  display: flex;
+  padding: 15px;
+  margin-right: 80px;
+  width: 140px;
+  margin-bottom: 20px;
+  list-style-type: none;
+}
+.logo-image {
+  margin-right: 20px;
+}
+.name {
+  color: #1e293b;
+  font-family: roboto;
+  font-weight: bold;
+  font-size: 18px;
+}
+.detailed-item {
+  text-decoration: none;
+}
+li {
+  list-style-type: none;
+}

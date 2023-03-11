@@ -1,0 +1,19 @@
+.not-found {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.failure-image {
+  height: 360px;
+}
+.last-h {
+  color: #475569;
+  font-weight: bold;
+  font-family: roboto;
+}
+.last-p {
+  color: #64748b;
+  font-family: roboto;
+}

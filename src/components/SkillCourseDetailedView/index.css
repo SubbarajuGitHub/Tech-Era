@@ -1,0 +1,47 @@
+.specific-div {
+  display: flex;
+  padding: 50px;
+}
+.description {
+  color: #64748b;
+  font-family: roboto;
+}
+.name {
+  color: #1e293b;
+  font-family: roboto;
+}
+.second-div {
+  margin-left: 40px;
+}
+.failure-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure-paragraph {
+  color: #475569;
+  font-family: roboto;
+}
+.failure-heading {
+  color: #4656a1;
+  font-weight: bold;
+  font-family: roboto;
+}
+.retry-button {
+  background-color: #4656a1;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  font-family: roboto;
+  font-weight: bold;
+  width: 100px;
+  border-color: transparent;
+}
+.loader-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}

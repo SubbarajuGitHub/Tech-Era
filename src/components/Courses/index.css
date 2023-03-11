@@ -1,0 +1,17 @@
+.website-logo {
+  height: 50px;
+}
+.navbar-bg {
+  background-color: #f1f5f9;
+  padding: 20px;
+}
+.heading {
+  margin-left: 50px;
+  font-family: roboto;
+  color: #1e293b;
+}
+.skill-list-ul {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
